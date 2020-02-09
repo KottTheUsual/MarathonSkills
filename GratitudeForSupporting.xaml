@@ -8,10 +8,10 @@
         Title="GratitudeForSupporting" Height="720" Width="1280" ResizeMode="NoResize">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="15*"></ColumnDefinition>
-            <ColumnDefinition Width="50*"></ColumnDefinition>
-            <ColumnDefinition Width="50*"></ColumnDefinition>
-            <ColumnDefinition Width="15*"></ColumnDefinition>
+            <ColumnDefinition Width="150*"></ColumnDefinition>
+            <ColumnDefinition Width="500*"></ColumnDefinition>
+            <ColumnDefinition Width="500*"></ColumnDefinition>
+            <ColumnDefinition Width="150*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="60"></RowDefinition>
